@@ -1,0 +1,237 @@
+
+
+
+
+.res{
+    padding: 0.5rem;
+    padding-left: 10px;
+    padding-right:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+   
+    border-radius: 1rem;
+    color: white;
+    background-color: rgb(12, 12, 157);
+}
+
+.res-1 {
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+   
+    border-radius: 1rem;
+    color: white;
+    background-color: rgb(12, 12, 157);
+}
+.res-2{
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+   
+    border-radius: 1rem;
+    color: white;
+    background-color: rgb(12, 12, 157);
+}
+
+.b2c{
+    
+        padding: 0.5rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 300;
+       
+        border-radius: 1rem;
+        color: white;
+        background-color: rgb(12, 12, 157);
+    
+}
+.b2c-1{
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+   
+    border-radius: 1rem;
+    color: white;
+    background-color: rgb(12, 12, 157);
+}
+.b2c-2{
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+   
+    border-radius: 1rem;
+    color: white;
+    background-color: rgb(12, 12, 157);
+}
+.b2c-3{
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+   
+    border-radius: 1rem;
+    color: white;
+    background-color: rgb(12, 12, 157);
+}
+.b2c-4{
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+   
+    border-radius: 1rem;
+    color: white;
+    background-color: rgb(12, 12, 157);
+}
+
+
+.pla{
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    
+    border-radius: 1rem;
+    color: black;
+    background-color: rgb(87, 183, 248);
+}
+.pla-1{
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    
+    border-radius: 1rem;
+    color: black;
+    background-color: rgb(87, 183, 248);
+}
+
+.pla-2{
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    
+    border-radius: 1rem;
+    color: black;
+    background-color: rgb(87, 183, 248);
+}
+
+.des{
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    
+    border-radius: 1rem;
+    color: black;
+    background-color: rgb(243, 81, 27);
+}
+.des-1{
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    
+    border-radius: 1rem;
+    color: black;
+    background-color: rgb(243, 81, 27);
+}
+.des-2{
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    
+    border-radius: 1rem;
+    color: black;
+    background-color: rgb(243, 81, 27);
+}
+
+.man{
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    
+    border-radius: 1rem;
+    color: black;
+    background-color: rgba(248, 87, 87, 0.72);
+}
+.man-1{
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    
+    border-radius: 1rem;
+    color: black;
+    background-color: rgba(248, 87, 87, 0.72);
+}
+
+.man-2{
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    
+    border-radius: 1rem;
+    color: black;
+    background-color: rgba(248, 87, 87, 0.72);
+}
+
+.sal{
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    
+    border-radius: 1rem;
+    color: black;
+    background-color: rgb(134, 73, 232);
+}
+
+.sal-1{
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    
+    border-radius: 1rem;
+    color: black;
+    background-color: rgb(134, 73, 232);
+}
+
+.sal-2{
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    
+    border-radius: 1rem;
+    color: black;
+    background-color: rgb(134, 73, 232);
+}
